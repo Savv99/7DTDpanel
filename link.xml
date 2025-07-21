@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <news>
-    <title>Link</title>
-    <content>
-        <action type="url" url="https://eu.csmm.app/auth/discord"/>
-    </content>
+  <entry>
+    <date>2024-07-21 00:00:00Z</date>
+    <title>Linking!</title>
+    <text>Click the "Visit" button below to complete the linking.</text>
+    <link>https://eu.csmm.app/auth/discord</link>
+  </entry>
 </news>
