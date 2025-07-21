@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <news>
-
-  <entry>
-    <date>2024-06-29 08:16:00Z</date>
     <title>Discord</title>
-    <title2>Server Info Located here</title2>
-    <text>Text</text>
-    <link>https://discord.gg/4hEuQEqW5E</link>
-    <imagerelpath></imagerelpath>
-  </entry>
-
+    <content>
+        <action type="url" url="https://discord.gg/4hEuQEqW5E"/>
+    </content>
 </news>
