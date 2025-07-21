@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <news>
+  <entry>
+    <date>2024-07-21 00:00:00Z</date>
     <title>Store</title>
-    <content>
-        <action type="url" url="https://ko-fi.com/harpergaming/tiers"/>
-    </content>
+    <text>Click the "Visit" button below to view the Store.</text>
+    <link>https://ko-fi.com/harpergaming/tiers</link>
+  </entry>
 </news>
