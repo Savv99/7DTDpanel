@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <news>
-  <entry>
+    <headline>Live Map</headline>
     <date>2024-07-21 00:00:00Z</date>
-    <title>Map</title>
-    <text>Click the "Visit" button below to view the live map.</text>
-    <link>http://185.216.147.179:5401/static/index.html</link>
-  </entry>
+    <text>Click the "Visit" button below to view the live map!</text>
+    <link>https://yourmaplink.com/</link>
 </news>
